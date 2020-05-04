@@ -18,4 +18,4 @@ These can all be added using the Julia Pkg.add() function. Some setup of PyCall 
 In order to execute the script you will need your own key for the Openrouteservice API. This can be aquired [here](https://openrouteservice.org/log-in/). The key will need to be placed in ```Data/ors_cred.json``` before the script will run. 
 
 ### Changing the Locations
-To apply the algorithm to a different set of locations you can edit the CSV fil ```Data/LatLon.csv```.
+To apply the algorithm to a different set of locations you can edit the CSV file ```Data/LatLon.csv```.
