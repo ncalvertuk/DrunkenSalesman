@@ -1,5 +1,5 @@
 ---
-title: "The Drunken Salesman: Applying the Travelling Salesperson Problem to Manchester Breweries"
+The Drunken Salesman: Applying the Travelling Salesperson Problem to Manchester Breweries
 ---
 
 ### Introduction
