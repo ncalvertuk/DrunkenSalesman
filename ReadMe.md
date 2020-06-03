@@ -2,7 +2,7 @@ The Drunken Salesman: Applying the Travelling Salesperson Problem to Manchester 
 ==============
 
 ### Introduction
-A Julia script to calculate the optimal walking route around the brewery taprooms of Manchester City Centre (Travelling Salesperson Problem). A blogpost describing the code can be found [here](www.ncalvert.uk/posts/drunkensalesman/)
+A Julia script to calculate the optimal walking route around the brewery taprooms of Manchester City Centre (Travelling Salesperson Problem). A blogpost describing the code can be found [here](https://www.ncalvert.uk/posts/drunkensalesman/)
 
 ### Prerequisites
 The following Julia packages are required:
